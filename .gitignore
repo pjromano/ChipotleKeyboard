@@ -1,3 +1,6 @@
+# Ignore binary assets (art)
+/Assets/art/
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
