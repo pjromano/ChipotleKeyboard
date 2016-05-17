@@ -27,3 +27,6 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+# Project Settings (seems to keep changing for no reason)
+ProjectSettings/GraphicsSettings.asset
